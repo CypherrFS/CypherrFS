@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Actualmente cocinando: Scripts que me ahorran teclear y probablemente alguna cosa con Django/Flask si me agarra la inspiración.<br>👯 Me sumo a colaborar en: Cualquier cosa donde Python pueda meter su magia ✨. Si es para automatizar el caos o jugar con datos, de una!<br>💬 Tírame una pregunta sobre: Python (obvio), cómo no morir en el intento con la indentación 😵, o por qué el mate 🧉 es la mejor bebida del mundo.
+🔭 Actualmente cocinando: Scripts que me ahorran teclear y probablemente alguna cosa con Django/Flask si me agarra la inspiración.<br>👯 Me sumo a colaborar en: Cualquier cosa donde Python pueda meter su magia ✨. Si es para automatizar o jugar con datos, de una!<br>💬 Tírame una pregunta sobre: Python (obvio), cómo no morir en el intento con la indentación 😵, o por qué el mate 🧉 es la mejor bebida del mundo.
 
 
 ## 🌐 Socials:
